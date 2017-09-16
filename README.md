@@ -1,2 +1,2 @@
 # stat471
-Homework group 
+Homework group - Hello!
